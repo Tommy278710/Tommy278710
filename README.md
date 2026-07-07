@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustapha Tiamiyu (Tommy)</h1>
+<h1 align="center">Hi 👋, I'm Mustapha Tiamiyu (TommyF1)</h1>
 
 <h3 align="center">
 Artificial Intelligence Engineer • Data Scientist • Machine Learning Engineer
