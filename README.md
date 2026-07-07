@@ -342,4 +342,19 @@ I enjoy building intelligent systems, exploring emerging technologies, and solvi
 ✅ Collaborate on innovative AI solutions
 
 
+## 🚧 Portfolio Updates
 
+This portfolio is continuously evolving as I document and publish my completed work.
+
+Upcoming flagship projects include:
+
+- 🛡️ Spam Detection Model
+- 📧 Email Phishing Detection
+- 🎓 AI Assignment Grading System
+- 🎨 AI Cartoon Generator
+- 💄 Makeup Transfer System
+- 🕌 Al-Maymun Islamic Institute Website
+
+Each repository will include comprehensive documentation, screenshots, deployment instructions, and source code.
+
+Stay tuned for more AI, Machine Learning, Data Science, Computer Vision, and Web Development projects.
